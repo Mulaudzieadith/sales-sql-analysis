@@ -74,7 +74,41 @@ Sales show clear seasonality, with spikes toward year-end, suggesting strong hol
 - Window functions (`RANK()`)
 - Business insight generation
 - Time-based analysis using `DATE_TRUNC`
+---
 
+# 📊 Power BI Dashboard (Sales & Profit Analysis)
+
+## 📌 Overview
+This dashboard was built in Power BI to analyze Superstore sales data and visualize key business metrics such as revenue, profit, and performance trends.
+
+---
+
+## 📊 Key Features
+- KPI Cards (Total Sales, Total Profit, Profit Margin)
+- Sales by Category
+- Profit by Category
+- Profit Margin by Category
+- Monthly Sales Trend
+
+---
+
+## 🔍 Key Insights
+- Technology drives the highest revenue and profit
+- Furniture underperforms across both sales and profit
+- Sales increase toward the end of the year, peaking in Q4
+- Profit margin highlights efficiency differences across categories
+
+---
+
+## 🛠️ Tools Used
+- Power BI
+- DAX
+- Data Visualization
+
+---
+
+## 📷 Dashboard Preview
+*(Add screenshot here later)*
 ---
 
 ## 📂 Project Structure
